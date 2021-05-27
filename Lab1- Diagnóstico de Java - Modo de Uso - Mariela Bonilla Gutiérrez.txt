@@ -1,0 +1,18 @@
+Laboratorio 1: Diagnóstico de Java - Mariela Bonilla Gutiérrez
+
+Ejercicio 1 - Algoritmo sencillo
+
+Modo de uso:
+
+El sistema te pedira que digiten 5 números, estos números se irán solicitado de 1 en 1, es decir, se te preguntará 5 veces que ingreses un dígito. 
+
+Después de ingresar los 5 números, de forma automática se mostrarán en consola una lista ordenada, de menor a mayor, los números ingresados por el usuario.
+
+
+Ejercicio 2 - Orientación a objetos
+
+Modo de uso:
+
+El sistema te solicitará que ingreses la longitud de la contraseña que deseas generar.
+
+Al digitar la longitud, se realizará la generación de la contraseña y en la consola aparecerá la contraseña generada y un aviso acerca de si la contraseña es fuerte o no.
